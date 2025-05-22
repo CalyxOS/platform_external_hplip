@@ -151,7 +151,4 @@ cc_binary {
         "libz",
         "libppd",
     ],
-    static_libs: [
-        "libjbig",
-    ],
 }
